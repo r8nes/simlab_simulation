@@ -1,0 +1,24 @@
+{
+    "name": "Godland.Editor",
+    "rootNamespace": "Godland.Editor",
+    "references": [
+        "Godland.Core",
+        "Godland.Game",
+        "VContainer",
+        "Unity.TextMeshPro",
+        "Unity.InputSystem",
+        "UniTask",
+        "UnityEngine.UI"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
